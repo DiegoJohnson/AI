@@ -1,2 +1,2 @@
 # Machine_Learning
- Algorithm of traditional ML
+ Python Implementation of Traditional Machine Learning Algorithm
